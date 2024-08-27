@@ -4,7 +4,7 @@ I'm Xeronaus Finezero, and that's not my real name 👀
 ## About Me 🧻
 I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 😐
 
-You can talk with me via Discord! 🟦 
+You can talk with me via Discord! 🟦
 My username is: xeronaus_finezero ✨
 
 Also don't do anything suspicious (in a bad way) or I'll block you ⛔
