@@ -2,7 +2,7 @@
 I'm Xeronaus Finezero, and that's not my real name though 👀
 
 ## About Me 🧻
-I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 🥲
+I'm a guy from Indonesia 🇮🇩 and ~I'm going to steal your cheeseburger~
 
 ## Links 🔗
 I'm not sure what to put here yet, how about [Anuken's Cube](https://anuken.github.io/cube/)?
