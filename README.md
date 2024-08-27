@@ -18,7 +18,7 @@ It's colorful 🟥🟧🟨🟩🟦🟪
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
 - Pixel Spriting 🟥 (Little Bit Experienced)
-- Music Making 🎵 (Needs To Be Confirmed)
+- Music Making 🎵 (I Don't Know...)
 - ~Procrastinating~ 😅 (Kind Of Though)
 
 ## GitHub Stats 📊
