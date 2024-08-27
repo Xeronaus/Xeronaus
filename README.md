@@ -1,5 +1,5 @@
 ## Hello There 👋
-I'm Xeronaus Finezero, and that's not my real name though 👀
+I'm Xeronaus Finezero, and that's not my real name 👀
 
 ## About Me 🧻
 I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 😐
@@ -23,4 +23,4 @@ I'm not sure what to put here yet, how about [Anuken's Cube](https://anuken.gith
 
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
-~All hail Lord Cat 🐈~
+~All hail Lord Cat 🐈 and that he shall have all the fishes 🐟 for himself~
