@@ -1,7 +1,9 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, and that's not my real name 👀
 
-You can talk with me via Discord! My username is: xeronaus_finezero
+You can talk with me via Discord! 📘
+
+My username is: xeronaus_finezero 🚩
 
 ## About Me 🧻
 I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 😐
