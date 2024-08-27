@@ -19,4 +19,4 @@ I'm not sure what to put here yet, maybe [Anuken's Cube](https://anuken.github.i
 
 ## Thanks For Reading 👍
 
-![GIF](https://github.com/username/repository/raw/main/assets/example.gif)
+![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
