@@ -1,6 +1,8 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, and that's not my real name 👀
 
+You can talk with me via Discord! My username is: xeronaus_finezero
+
 ## About Me 🧻
 I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 😐
 
@@ -12,6 +14,7 @@ I'm not sure what to put here yet, how about [Anuken's Cube](https://anuken.gith
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
 - Pixel Spriting 🟥 (Little Bit Experienced)
+- ~Sleeping Too Long~ 💤 (Sometimes Alright?)
 - ~Procrastinating~ 😅 (Kind Of)
 
 ## GitHub Stats 📊
