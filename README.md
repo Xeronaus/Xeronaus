@@ -30,4 +30,4 @@ It's colorful 🟥🟧🟨🟩🟦🟪
 
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
-~All hail Lord Cat 🐈 and that he shall have all the fishes 🐟 for himself~
+~Lord Cat 🐈 has acknowledged your existence because you have read this README.md~
