@@ -1,6 +1,13 @@
 ## Hello there 👋
 I'm Xeronaus Finezero. That's not my real name though.
 
+## About me 
+
+## Links 🔗 
+
+## Skills 🛠️
+- ~Procrastinating~
+
 <!--
 **Xeronaus/Xeronaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
