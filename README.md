@@ -1,14 +1,16 @@
 ## Hello There 👋
-I'm Xeronaus Finezero. That's not my real name though.
+I'm Xeronaus Finezero, and that's not my real name though 👀
 
 ## About Me 🧻
-I'm a guy from Indonesia 🇮🇩
+I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 🥲
 
 ## Links 🔗
 I'm not sure what to put here yet, maybe [Anuken's Cube](https://anuken.github.io/cube/).
 
 ## Skills 🛠️
-- ~Procrastinating~
+- Java Coding ☕
+- Pixel Spriting 
+- ~Procrastinating~ 😅
 
 ## GitHub Stats 📊
 
