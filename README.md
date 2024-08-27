@@ -5,12 +5,12 @@ I'm Xeronaus Finezero, and that's not my real name though 👀
 I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 🥲
 
 ## Links 🔗
-I'm not sure what to put here yet, maybe [Anuken's Cube](https://anuken.github.io/cube/).
+I'm not sure what to put here yet, how about [Anuken's Cube](https://anuken.github.io/cube/)?
 
 ## Skills 🛠️
-- Java Coding ☕
-- Pixel Spriting 🟥
-- ~Procrastinating~ 😅
+- Java Coding ☕ (Very Beginner)
+- Pixel Spriting 🟥 (Little Bit Experienced)
+- ~Procrastinating~ 😅 (Kind Of)
 
 ## GitHub Stats 📊
 
