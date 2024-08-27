@@ -11,7 +11,8 @@ My username is: xeronaus_finezero ✨
 Also don't do anything suspicious (in a bad way) or I'll block you ⛔
 
 ## Links 🔗
-I'm not sure what to put here yet, how about [Anuken's Cube](https://anuken.github.io/cube/)?
+
+- [Math Is Fun 🔢](https://www.mathsisfun.com)
 
 It's colorful 🟥🟧🟨🟩🟦🟪
 
