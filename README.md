@@ -11,10 +11,12 @@ My username is: xeronaus_finezero ✨
 Also don't do anything suspicious (in a bad way) or I'll block you ⛔
 
 ## Links 🔗
+These are my Links
+- [GitHub]()
+- [YouTube]()
 
+These are websites I liked
 - [Math Is Fun 🔢](https://www.mathsisfun.com)
-
-It's colorful 🟥🟧🟨🟩🟦🟪
 
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
