@@ -9,7 +9,7 @@ I'm not sure what to put here yet, maybe [Anuken's Cube](https://anuken.github.i
 
 ## Skills 🛠️
 - Java Coding ☕
-- Pixel Spriting 
+- Pixel Spriting 🟥
 - ~Procrastinating~ 😅
 
 ## GitHub Stats 📊
