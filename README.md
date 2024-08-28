@@ -33,16 +33,4 @@ These are websites I liked
 
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
-~Lord Cat 🐈 has acknowledged your existence because you have read this README.md 📗~
-
-~Take this gift 🎁 as your reward~
-
-                   ／＞        フ
-                     | 　_      _ l
-                  ／` ミ＿xノ
-               /                  |
-            /     ヽ         ﾉ
-           │        |    |    |
-　／￣|         |    |    |
-　| (￣ヽ＿_ヽ_)__)
-　＼二つ
+~Lord Cat 🐈 has acknowledged your existence because you have read this README.md 📕~
