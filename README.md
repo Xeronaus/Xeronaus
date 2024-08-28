@@ -51,4 +51,4 @@ Note: Petani Kode is an Indonesian website. I don't recommend it to non-Indonesi
 
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
-The cat "JoJo" 🐈 has acknowledged your existence because you have read this README.md 📕
+> The cat "JoJo" 🐈 has acknowledged your existence because you have read this README.md 📕
