@@ -12,8 +12,8 @@ Also don't do anything suspicious (in a bad way) or I'll block you ⛔
 
 ## Links 🔗
 These are my Links
-- [GitHub]()
-- [YouTube]()
+- [GitHub](https://github.com/Xeronaus) 
+- [YouTube]() 📺
 
 These are websites I liked
 - [Math Is Fun 🔢](https://www.mathsisfun.com)
