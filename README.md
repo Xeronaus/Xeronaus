@@ -16,6 +16,7 @@ These are websites worth pinning 📌
 - [Inkscape](https://inkscape.org) ✒️
 - [Krita](https://krita.org) 🖌️
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) 🖥️
+- [Kurzgesagt](https://kurzgesagt.org) 🌍
 
 
 ## Skills 🛠️
