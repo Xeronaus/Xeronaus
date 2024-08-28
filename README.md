@@ -10,7 +10,7 @@ I like STEM (science, technology, engineering, and mathematics).
 
 My favorite games are [Minecraft](https://www.minecraft.net), [Mindustry](https://mindustrygame.github.io), [Terraria](https://terraria.org), [BTD6](https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html), and [Infinitode 2](https://infinitode.prineside.com).
 
-I'm going to write some extra words just to make a "real" sentence ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+I'm going to write some extra words just to make another "real" sentence ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
 If you would like to know more, feel free to ask!
 
