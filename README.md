@@ -2,7 +2,7 @@
 I'm Xeronaus Finezero, and that's not my real name 👀
 
 ## About Me 🧻
-I'm a guy from Indonesia 🇮🇩 and I have few 'real' friends 😐
+I'm a guy from Indonesia 🇮🇩 and I like learning STEM
 
 You can talk with me via Discord! 🟦
 
@@ -33,4 +33,6 @@ These are websites I liked
 
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
-~Lord Cat 🐈 has acknowledged your existence because you have read this README.md~
+~Lord Cat 🐈 has acknowledged your existence because you have read this README.md 📗~
+
+~Take this gift 🎁 as your reward~
