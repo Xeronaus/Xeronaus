@@ -35,4 +35,4 @@ These are websites worth pinning 📌
 
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
-Cat "JoJo" 🐈 has acknowledged your existence because you have read this README.md 📕
+The cat "JoJo" 🐈 has acknowledged your existence because you have read this README.md 📕
