@@ -4,7 +4,7 @@ I'm Xeronaus Finezero, and that's not my real name 👀
 > Also don't ask for that. That is suspicious. Yes, I can be quite skeptical but that's for caution.
 
 ## About Me 🧻
-I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
+I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there. The temperature 🌡️ is nice for me and I hate cold ❄️
 
 I like STEM (science, technology, engineering, and mathematics).
 
