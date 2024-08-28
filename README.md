@@ -1,8 +1,16 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, and that's not my real name 👀
 
+> Also don't ask. That is suspicious. Yes, I can be quite skeptical. 
+
 ## About Me 🧻
-I'm a guy ♂️ from Indonesia 🇮🇩 and I'm going to write some extra words just to make the sentence longer ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+I'm a guy ♂️ from Indonesia 🇮🇩 
+
+I'm going to write some extra words just to make a "real" sentence ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+
+I like STEM (science, technology, engineering, and mathematics)
+
+My favorite games are [Minecraft](https://www.minecraft.net), [Mindustry](https://mindustrygame.github.io), [Terraria](https://terraria.org), [BTD6](https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html), and [Infinitode 2](https://infinitode.prineside.com).
 
 ## Links 🔗
 These are my links 🚩
@@ -15,6 +23,7 @@ These are websites worth pinning 📌
 - [LMMS](https://lmms.io) 🎧
 - [Inkscape](https://inkscape.org) ✒️
 - [Krita](https://krita.org) 🖌️
+- [Pixilart](https://www.pixilart.com) 🎨
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) 🖥️
 - [Kurzgesagt](https://kurzgesagt.org) 🌍
 - [Blender](https://www.blender.org) 🟠
