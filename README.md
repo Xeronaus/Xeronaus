@@ -5,6 +5,7 @@ I'm Xeronaus Finezero, and that's not my real name 👀
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
+
 I like STEM (science, technology, engineering, and mathematics).
 
 My favorite games are [Minecraft](https://www.minecraft.net), [Mindustry](https://mindustrygame.github.io), [Terraria](https://terraria.org), [BTD6](https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html), and [Infinitode 2](https://infinitode.prineside.com).
@@ -13,7 +14,7 @@ I'm going to write some extra words just to make a "real" sentence ¯⁠\⁠_⁠
 
 If you would like to know more, feel free to ask!
 
-> But please don't ask any possible **highly sensitive** personal informations.
+> But please don't ask any possible **sensitive** personal informations. Like I said earlier, that is suspicious and I will be skeptical with it.
 
 ## Links 🔗
 These are my links 🚩
