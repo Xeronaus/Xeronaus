@@ -45,8 +45,8 @@ Note: Petani Kode is an Indonesian website. I don't recommend it to non-Indonesi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeronaus&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=transparent&langs_count=10)
 
 ## Cool Quotes
-> "Get money to life not life to get money"
-> - Unknown
+> "Everything will go find, not guaranteed though."
+> - Me
 
 ## Thanks For Reading 👍
 
