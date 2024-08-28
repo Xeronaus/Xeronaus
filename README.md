@@ -14,7 +14,7 @@ I'm going to write some extra words just to make another "real" sentence ¯⁠\�
 
 If you would like to know more, feel free to ask!
 
-> But please don't ask any possible **sensitive** personal informations. Like I said earlier, that is suspicious and I will be skeptical with it.
+> But please don't ask any possible **sensitive** personal informations. Like I said earlier, that is suspicious and I will be skeptical about it. This is for caution.
 
 ## Links 🔗
 These are my links 🚩
