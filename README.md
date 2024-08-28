@@ -13,7 +13,7 @@ I'm a guy from Indonesia 🇮🇩
 ## Links 🔗
 These are my links 🚩
 - [GitHub](https://github.com/Xeronaus) 💻
-- [YouTube]() 📺
+- [YouTube](https://youtube.com/@Xeronaus) 📺
 
 These are websites worth mentioning 📌
 - [Math Is Fun](https://www.mathsisfun.com) 🔢
