@@ -2,14 +2,14 @@
 I'm Xeronaus Finezero, and that's not my real name 👀
 
 ## About Me 🧻
-I'm a guy from Indonesia 🇮🇩
+I'm a guy ♂️ from Indonesia 🇮🇩 and I... nevermind ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
 ## Links 🔗
 These are my links 🚩
 - [GitHub](https://github.com/Xeronaus) 💻
 - [YouTube](https://youtube.com/@Xeronaus) 📺
 
-These are websites worth mentioning 📌
+These are websites worth pinning 📌
 - [Math Is Fun](https://www.mathsisfun.com) 🔢
 - [Brilliant](https://brilliant.org) 🟩
 - [LMMS](https://lmms.io) 🎧
@@ -21,8 +21,8 @@ These are websites worth mentioning 📌
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
 - Pixel Spriting 🟥 (Little Bit Experienced)
-- Music Making 🎵 (I Don't Know...)
-- General Drawing ()
+- Music Making 🎵 (Pretty Mediocre)
+- General Drawing ✏️ (Maybe Good?)
 - ~Procrastinating~ 😅 (Kind Of Though)
 
 ## GitHub Stats 📊
@@ -35,9 +35,3 @@ These are websites worth mentioning 📌
 ![GIF](https://github.com/Xeronaus/Xeronaus/blob/main/cat-jojo.gif)
 
 ~Lord Cat 🐈 has acknowledged your existence because you have read this README.md 📕~
-
-You can talk with me via Discord! 🟦
-
-My username is: xeronaus_finezero ✨
-
-Don't do anything suspicious ⚠️ or I'll block you! ⛔
