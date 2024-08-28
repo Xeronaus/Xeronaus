@@ -18,7 +18,9 @@ These are websites worth pinning 📌
 - [IntelliJ IDEA](https://www.jetbrains.com/idea) 🖥️
 - [Kurzgesagt](https://kurzgesagt.org) 🌍
 - [Blender](https://www.blender.org) 🟠
+- [Petani Kode](https://www.petanikode.com) 👨‍🌾
 
+Note: Petani Kode is an Indonesian website. I don't recommend it to non-Indonesian speakers.
 
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
