@@ -11,12 +11,13 @@ Don't do anything suspicious though (in a bad way) or I'll block you! ⛔
 I'm a guy from Indonesia 🇮🇩
 
 ## Links 🔗
-These are my Links
+These are my links 🏁🚩
 - [GitHub](https://github.com/Xeronaus) 
 - [YouTube]() 📺
 
-These are websites I liked
-- [Math Is Fun 🔢](https://www.mathsisfun.com)
+These are websites worth mentioning 📌
+- [Math Is Fun](https://www.mathsisfun.com) 🔢
+- [Brilliant](https://brilliant.org) 🟢
 
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
