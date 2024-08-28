@@ -5,7 +5,7 @@ You can talk with me via Discord! 🟦
 
 My username is: xeronaus_finezero ✨
 
-Don't do anything suspicious (in a bad way) or I'll block you! ⛔
+Don't do anything suspicious ⚠️ or I'll block you! ⛔
 
 ## About Me 🧻
 I'm a guy from Indonesia 🇮🇩
@@ -17,12 +17,13 @@ These are my links 🚩
 
 These are websites worth mentioning 📌
 - [Math Is Fun](https://www.mathsisfun.com) 🔢
-- [Brilliant](https://brilliant.org) 🟢
+- [Brilliant](https://brilliant.org) 🟩
 
 ## Skills 🛠️
 - Java Coding ☕ (Very Beginner)
 - Pixel Spriting 🟥 (Little Bit Experienced)
 - Music Making 🎵 (I Don't Know...)
+- General Drawing ()
 - ~Procrastinating~ 😅 (Kind Of Though)
 
 ## GitHub Stats 📊
