@@ -1,7 +1,7 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, and that's not my real name 👀
 
-> Also don't ask for that. That is suspicious. Yes, I can be quite skeptical but that's for caution.
+> Also don't ask for that. I am not comfortable to share my real name in general.
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
@@ -14,7 +14,7 @@ I'm going to write some extra words just to make another "real" sentence ¯⁠\�
 
 If you would like to know more, feel free to ask!
 
-> But please don't ask any possible **sensitive** personal informations. Like I said earlier, that is suspicious and I will be skeptical about it. This is for caution.
+> Just don't ask any possible **sensitive** personal informations. Such questions will be ignored.
 
 ## Links 🔗
 These are my links 🚩
