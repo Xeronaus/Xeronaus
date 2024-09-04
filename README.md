@@ -14,6 +14,8 @@ I'm going to write some extra words just to make another "real" sentence ¯⁠\�
 
 I can speak both Indonesian 🇮🇩 and English 🇺🇲🇬🇧 but also currently learning Russian 🇷🇺
 
+> Can anyone teach me Russian? Please?
+
 If you would like to know more, feel free to ask!
 
 > Just don't ask any possible **sensitive** personal informations. Such questions will be ignored.
