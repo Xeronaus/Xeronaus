@@ -1,7 +1,7 @@
 ## Hello There 👋
-I'm Xeronaus Finezero, but you can just call me by Xeronaus.
+I'm Xeronaus Finezero, but you can just call me by Xeronaus ☝️
 
-> Cat
+> 
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
@@ -11,6 +11,8 @@ I like STEM (science, technology, engineering, and mathematics).
 My favorite games are [Minecraft](https://www.minecraft.net), [Mindustry](https://mindustrygame.github.io), [Terraria](https://terraria.org), [BTD6](https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html), and [Infinitode 2](https://infinitode.prineside.com).
 
 I'm going to write some extra words just to make another "real" sentence ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+
+I can speak both Indonesian 🇮🇩 and English 🇺🇲🇬🇧 but also currently learning Russian 🇷🇺
 
 If you would like to know more, feel free to ask!
 
