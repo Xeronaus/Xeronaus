@@ -1,7 +1,7 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, but you can just call me by Xeronaus ☝️
 
-> What
+> I'm burning ❤️‍🔥
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
