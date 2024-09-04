@@ -1,6 +1,7 @@
 ## Hello There 👋
-I'm Xeronaus Finezero, 
-> Obvious fact: Red is red
+I'm Xeronaus Finezero, but you can just call me by Xeronaus.
+
+> Cat
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
