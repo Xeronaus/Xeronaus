@@ -1,7 +1,6 @@
 ## Hello There 👋
-I'm Xeronaus Finezero, and that's not my real name 👀
-
-> Also don't ask for that. I am not comfortable to share my real name in general.
+I'm Xeronaus Finezero, 
+> Obvious fact: Red is red
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
