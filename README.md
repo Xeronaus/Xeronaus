@@ -10,7 +10,7 @@ My favorite games are [Minecraft](https://www.minecraft.net), [Mindustry](https:
 
 I'm going to write some extra words just to make another "real" sentence ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
 
-I can speak both Indonesian 🇮🇩 and English 🇺🇲🇬🇧 but also currently learning Russian 🇷🇺
+I can speak both Indonesian 🇮🇩 and English 🇺🇲🇬🇧 but I'm also learning Russian 🇷🇺
 
 > Also what's the best way to learn Russian? If you do know can you tell me?
 
