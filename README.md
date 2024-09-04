@@ -1,7 +1,7 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, but you can just call me by Xeronaus ☝️
 
-> 
+> What
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
@@ -50,6 +50,9 @@ Note: Petani Kode is an Indonesian website. I don't recommend it to non-Indonesi
 ## GitHub Stats 📊
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Xeronaus&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=transparent)
+
+> Something ain't right
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeronaus&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=transparent&langs_count=10)
 
 ## My Quote
