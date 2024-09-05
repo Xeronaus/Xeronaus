@@ -12,7 +12,7 @@ I'm going to write some extra words just to make another "real" sentence ¯⁠\�
 
 I can speak both Indonesian 🇮🇩 and English 🇺🇲🇬🇧 but I'm also learning Russian 🇷🇺
 
-> Also what's the best way to learn Russian? If you do know can you tell me?
+> I decided to learn Russian because many people that I want to talk with are Russians.
 
 If you would like to know more, feel free to ask!
 
