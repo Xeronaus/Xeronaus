@@ -1,7 +1,7 @@
 ## Hello There 👋
 I'm Xeronaus Finezero, but you can just call me by Xeronaus ✅
 
-> My Discord 🟦 username is xeronaus_finezero ✨
+> Does see a chocolate 🍫 and see cheese 🧀 cake 🎂
 
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
