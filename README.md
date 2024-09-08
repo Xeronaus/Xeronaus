@@ -6,6 +6,8 @@ I'm Xeronaus Finezero, but you can just call me by Xeronaus ✅
 ## About Me 🧻
 I'm a guy ♂️ from Indonesia 🇮🇩 and I'm quite comfortable over there.
 
+I used the browser [Brave](https://brave.com)
+
 I like STEM (science, technology, engineering, and mathematics).
 
 My favorite games are [Minecraft](https://www.minecraft.net), [Mindustry](https://mindustrygame.github.io), [Terraria](https://terraria.org), [BTD6](https://ninjakiwi.com/Games/Mobile/Bloons-TD-6.html), and [Infinitode 2](https://infinitode.prineside.com).
